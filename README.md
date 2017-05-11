@@ -74,6 +74,9 @@ and
 
 Both the client and server terminate after this.
 
+### If you wanto to test the server directly with openssl command line tool
+    openssl s_client -connect 127.0.0.1:9000 -tls1_2 -CAfile  /home/conte/workdir/ssl-socket-demo/sslcert/cacert.pem -key /home/conte/workdir/ssl-socket-demo/sslcert/private/clientkey.pem -cert /home/conte/workdir/ssl-socket-demo/sslcert/clientcert.pem
+
 ## License
 
 This code is licensed under Apache-2.0 License.
