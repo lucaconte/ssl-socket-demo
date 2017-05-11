@@ -83,6 +83,6 @@ This code is licensed under Apache-2.0 License.
 
 ## Author
 
-This code is written by Jan Willem Janssen, j.w.janssen@lxtreme.nl.
+This code is written by Jan Willem Janssen, j.w.janssen@lxtreme.nl. OpenSSl shell client command  by Luca Conte luca@riseup.net
 
 
